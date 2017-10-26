@@ -1,5 +1,5 @@
 {
-  "name": "react-cropper",
+  "name": "@linamalina/react-cropper",
   "version": "1.0.1",
   "description": "Cropper as React components",
   "main": "dist/react-cropper.js",
@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/roadmanfong/react-cropper.git"
+    "url": "https://github.com/LinaMalina/_react-cropper.git"
   },
   "dependencies": {
     "cropperjs": "v1.0.0-rc.3",
